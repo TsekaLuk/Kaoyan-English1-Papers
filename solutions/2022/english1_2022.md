@@ -480,10 +480,10 @@ You should write neatly on the ANSWER SHEET.(20points)
 
 扫一扫，关注在职研究生在职信息网官方微信，及时获取招生资讯、报考常见问题、备考经验分享等信息！还有免费的人工在线答疑服务！
 
-![](images/bdcae1c3cfa6158d2c73f4ad3632c859f2d856637405bdb57ff0e94cb91d6b8c.jpg)  
+![](../images/bdcae1c3cfa6158d2c73f4ad3632c859f2d856637405bdb57ff0e94cb91d6b8c.jpg)  
 微信服务号
 
-![](images/0d0ec14c92474f55fd41771ab289ecaab5ca87c8c93c03fd50d7baf8e115477a.jpg)  
+![](../images/0d0ec14c92474f55fd41771ab289ecaab5ca87c8c93c03fd50d7baf8e115477a.jpg)  
 微信订阅号
 
 在职研究生招生信息网 全国统一报名咨询电话：40004-98986

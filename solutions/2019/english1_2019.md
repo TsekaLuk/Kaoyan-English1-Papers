@@ -458,5 +458,5 @@ Write an essay of 160-200 words based on the picture below. In your essay, you s
 
 You should write neatly on the ANSWER SHEET. (20 points )
 
-![](images/38ca7e7550c5286bd7a692a6118f70d07bdde596a82dde67fc35ac8387841baa.jpg)  
+![](../images/38ca7e7550c5286bd7a692a6118f70d07bdde596a82dde67fc35ac8387841baa.jpg)  
 途中

@@ -472,7 +472,7 @@ Write your answer in 160-200 words on the ANSWER SHEET. (20 points)
 
 2004
 
-![](images/eaf3cc63df6c9372c843003ce6c907c725fe7a2efc3c75bfb473a6a73efcd381.jpg)
+![](../images/eaf3cc63df6c9372c843003ce6c907c725fe7a2efc3c75bfb473a6a73efcd381.jpg)
 
 As is graphically portrayed in the picture, an aged man and a senior woman are standing hand in hand, watching a spectacular dragon-boat racing competition, with contented smiles on their faces. Simple as the picture is, the symbolic meaning is thought-provoking.
 

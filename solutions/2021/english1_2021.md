@@ -355,7 +355,7 @@ Write an essay of 160-200 words based on the following drawing. In your essay yo
 
 You should write neatly on ANSWER SHEET. (20 points)
 
-![](images/26d2eecc3d0282f784c2458121e3852f57359a839c56b0bc97c3acc1c986071b.jpg)  
+![](../images/26d2eecc3d0282f784c2458121e3852f57359a839c56b0bc97c3acc1c986071b.jpg)  
 电话时期的聚会
 
 # 参考答案及详细解析

@@ -380,4 +380,4 @@ Write an essay of 160-200 words based on the pictures below. In your essay, you 
 2)interpret the implied meaning, and   
 3) give your comments.
 
-![](images/995304a738a8f61f516966f742c9d888a02c15dff5e14e8105d03d1651e02bce.jpg)
+![](../images/995304a738a8f61f516966f742c9d888a02c15dff5e14e8105d03d1651e02bce.jpg)

@@ -329,4 +329,4 @@ Write an essay of 160-200 words based on the following pictures. In your essay, 
 
 You should write neatly on the ANSWER SHEET. (20 points )
 
-![](images/7403232f7fe1f7e1c4b49709f142ee5640df410cc415ba7f21eeada205354756.jpg)
+![](../images/7403232f7fe1f7e1c4b49709f142ee5640df410cc415ba7f21eeada205354756.jpg)
